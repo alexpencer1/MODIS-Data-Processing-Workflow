@@ -1,4 +1,4 @@
-## MODIS AOT Data Preparation – Step-by-Step Processing Guide (Phase 1)
+## (Phase 1) MODIS AOT Data Preparation – Step-by-Step Processing Guide 
 
 This section outlines the **initial data preparation phase** required before processing MODIS Aerosol Optical Thickness (AOT) data. It focuses on organizing downloaded data, verifying file completeness, and preparing for further analysis.
 
